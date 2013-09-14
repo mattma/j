@@ -13,12 +13,12 @@
     "url": "git://github.com/mattma/j.git"
   },
   "bugs": {
-    "url": "https://github.com/mma/jo/issues"
+    "url": "https://github.com/mattma/j/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/mma/jo/blob/master/LICENSE-MIT"
+      "url": "https://github.com/mma/j/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/j",
@@ -37,7 +37,6 @@
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
-    "grunt-contrib-nodeunit": "~0.1.2",
     "grunt-contrib-watch": "~0.2.0"
   },
   "keywords": []
