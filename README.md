@@ -1,6 +1,6 @@
 # j
 
-The best project ever.
+Launch any server or quicker application launcher
 
 ## Getting Started
 Install the module with: `npm install j`
@@ -23,5 +23,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 Matt Ma  
+Copyright (c) 2013 Matt Ma
 Licensed under the MIT license.
